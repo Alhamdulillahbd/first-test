@@ -1,6 +1,6 @@
 h1{border: 10px black double;
-color: red;}
+color: red;text-align: center;}
 h2{border: black 10px double;
-color: greenyellow;}
+color: greenyellow;text-align: center;}
 p{color: blue;
-border: blueviolet 10px dotted;}
+border: rgb(43, 226, 104) 10px double;}
